@@ -1,8 +1,6 @@
-Thank you for using our template!
-
-For more awesome templates please visit https://colorlib.com/wp/templates/
-
-Copyright information for the template can't be altered/removed unless you purchase a license.
-More information about the license is available here: https://colorlib.com/wp/licence/
-
-Removing copyright information without the license will result in suspension of your hosting and/or domain name(s).
+The project: Global Crowdfunding Support for Afghanistan Health Workers
+ 
+Innovation name: Globalcrowdfunding for Afghanistan 
+Problem – Health workers in Afghanistan are unsupported during COVID-19 with the needed PPE, training and hazard insurance, and donors do not have a trusted channel to directly support health workers.
+ 
+Impact of the problem – The COVID-19 pandemic has seriously affected the global West, North and East; Afghanistan is envisaged to be mostly affected. Compared to their population, majority of Afghanistan states do not have sufficient number of ventilators and testing kits. Some of the most vulnerable states in Afghanistan do not have access to high number of ventilator and testing kits. This shows that the testing rate on the continent is low and that makes the number of confirmed cases to be minimal compared to other global regions. Healthcare workers at the frontline also lack the basic tools to fight the pandemic, which makes most of them to be vulnerable to the virus and be infected due lack of basic testing kits including PPE. Since COVID-19 is the first ever pandemic that affects the entire world and create a complete lockdown of the world system, health workers globally lack specialized training towards this pandemic. Health workers in most of the Afghanistan countries also lack access to insurance against hazards that may result from the discharge of their professional duties in the face of COVID-19. Recently, Afghanistan government for example created a hazard insurance for health workers amidst COVID-19 in the country. In some states in Afghanistan health workers threaten to leave duties due to failure of governments to make adequate provisions for basic testing kits (PPE), delay in the payment of their monthly salaries and non-existence of hazard insurance.
